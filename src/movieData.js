@@ -52,8 +52,7 @@ const movieData = [
         urlSub: "https://subscene.com/subtitles/the-fault-in-our-stars/english",
       },
     ],
-    trainer:
-      "https://www.youtube.com/embed/9ItBvH5J6ss?si=CyNJmLuPGU0d-6Oc",
+    trainer: "https://www.youtube.com/embed/9ItBvH5J6ss?si=CyNJmLuPGU0d-6Oc",
     detail:
       "داستان دو بیمار سرطانی نوجوان که به منظور ملاقات با نویسنده‌ای منزوی در آمستردام سفری سرنوشت ساز را آغاز می‌کنند.",
     comments: [
@@ -190,8 +189,7 @@ const movieData = [
           "https://subscene.com/subtitles/game-of-thrones-eighth-season/english",
       },
     ],
-    trainer:
-      "https://www.youtube.com/embed/KPLWWIOCOOQ?si=ilIwql5eVQSQ_jDY",
+    trainer: "https://www.youtube.com/embed/KPLWWIOCOOQ?si=ilIwql5eVQSQ_jDY",
     detail:
       "هفت خاندان سلطنتی برای بدست گرفتن تاج و تخت با یکدیگر مبارزه می‌کنند",
     comments: [
@@ -312,8 +310,7 @@ const movieData = [
           "https://subscene.com/subtitles/breaking-bad-fifth-season/english",
       },
     ],
-    trainer:
-      "https://www.youtube.com/embed/HhesaQXLuRY?si=U6rlg1CFR45mhs0w",
+    trainer: "https://www.youtube.com/embed/HhesaQXLuRY?si=U6rlg1CFR45mhs0w",
     detail:
       "درباره یک معلم شیمی میانسال است که متوجه می شود که دارای سرطان ریه است و ۲ سال بیشتر وقت برای زندگی ندارد.",
     comments: [
@@ -379,8 +376,7 @@ const movieData = [
           "https://subscene.com/subtitles/winnie-the-pooh-blood-and-honey/english",
       },
     ],
-    trainer:
-      "https://www.youtube.com/embed/W3E74j_xFtg?si=An3W4RweyJzI2PwD",
+    trainer: "https://www.youtube.com/embed/W3E74j_xFtg?si=An3W4RweyJzI2PwD",
     detail:
       "در فیلم وینی خرسه خون و عسل : روزهای ماجراجویی و شادی به پایان رسیده است، زیرا کریستوفر رابین، که اکنون یک مرد جوان است، وینی پو و پیگلت را به حال خود رها کرده است. با گذشت زمان، احساس عصبانیت و رها شدن، این دو وحشی می شوند. پس از چشیدن طعم خون، وینی پو و پیگلت برای یافتن منبع غذایی جدیدی به راه افتادند. طولی نکشید که حمله خونین آنها آغاز شد.",
     comments: [
@@ -402,52 +398,6 @@ const movieData = [
   },
   {
     id: 5,
-    url: "winnie-the-pooh-2",
-    imgUrl: "pooh-2.jpg",
-    title: "Winnie-the-Pooh: Blood and Honey 2 2024",
-    persianTitle: "",
-    imgHeader: "pooh-bg-2.jpg",
-    timeMovie: "55",
-    gdnre: [
-      { title: "ترسناک", url: "/horror" },
-      { title: "هیجان انگیز", url: "/thriller" },
-    ],
-    detailMovieList: [
-      { title: "محصول کشور", answer: "انگلستان", icon: <TbWorld /> },
-      { title: "زبان اصلی", answer: "انگلیسی", icon: <MdOutlineTranslate /> },
-      { title: "مدت زمان", answer: "1 ساعت 40 دقیقه", icon: <IoTimeOutline /> },
-      { title: "سال انتشار", answer: "2024", icon: <CiCalendar /> },
-      {
-        title: "نویسنده",
-        answer: "Rhys Frake-Waterfield",
-        icon: <BiEditAlt />,
-      },
-      { title: "بودجه", answer: "1,000,000$", icon: <LuDollarSign /> },
-      { title: "لیست تماشای", answer: "13 کاربر", icon: <IoEyeOutline /> },
-      { title: "مورد علاقه", answer: "11 کاربر", icon: <FaRegHeart /> },
-    ],
-    imdbRating: 4.7,
-    category: "movie",
-    subtitles: [
-      {
-        subType: "فارسی",
-        urlSub:
-          "https://subscene.com/subtitles/winnie-the-pooh-blood-and-honey-2/farsi_persian",
-      },
-      {
-        subType: "انگلیسی",
-        urlSub:
-          "https://subscene.com/subtitles/winnie-the-pooh-blood-and-honey-2/english",
-      },
-    ],
-    trainer:
-      "https://www.youtube.com/embed/i9-jhznkB3g?si=OCIyCzUafo-M0mCQ",
-    detail:
-      "دانلود فیلم Winnie-the-Pooh: Blood and Honey 2 2024 با تماشای آنلاین",
-    comments: [],
-  },
-  {
-    id: 6,
     url: "may-december-2023",
     imgUrl: "may-december-1.jpg",
     title: "May December 2023",
@@ -484,8 +434,7 @@ const movieData = [
         urlSub: "https://subscene.com/subtitles/may-december/english",
       },
     ],
-    trainer:
-      "https://www.youtube.com/embed/BBKb1WoXokc?si=0AgKKwCQEOcYDA6p",
+    trainer: "https://www.youtube.com/embed/BBKb1WoXokc?si=0AgKKwCQEOcYDA6p",
     detail:
       "یک زوج بیست سال پس از اینکه رابطه پرشور و پرحاشیه‌شان ملت را به خود جلب کرد، اکنون با ورود یک بازیگر زن به شهرشان برای تحقیق در مورد رابطه‌ و گذشته آنها، تحت فشار قرار می‌گیرند و به چالش کشیده می‌شوند.",
     comments: [
@@ -500,7 +449,7 @@ const movieData = [
     ],
   },
   {
-    id: 7,
+    id: 6,
     url: "the-boys-2019",
     imgUrl: "the-boys-1.jpg",
     title: "The Boys 2019",
@@ -543,7 +492,8 @@ const movieData = [
     subtitles: [
       {
         subType: "فارسی فصل 1",
-        urlSub: "https://subscene.com/subtitles/the-boys-first-season/farsi_persian",
+        urlSub:
+          "https://subscene.com/subtitles/the-boys-first-season/farsi_persian",
       },
       {
         subType: "انگلیسی فصل 1",
@@ -551,7 +501,8 @@ const movieData = [
       },
       {
         subType: "فارسی فصل 2",
-        urlSub: "https://subscene.com/subtitles/the-boys-second-season/farsi_persian",
+        urlSub:
+          "https://subscene.com/subtitles/the-boys-second-season/farsi_persian",
       },
       {
         subType: "انگلیسی فصل 2",
@@ -559,41 +510,43 @@ const movieData = [
       },
       {
         subType: "فارسی فصل 3",
-        urlSub: "https://subscene.com/subtitles/the-boys-third-season/farsi_persian",
+        urlSub:
+          "https://subscene.com/subtitles/the-boys-third-season/farsi_persian",
       },
       {
         subType: "انگلیسی فصل 3",
         urlSub: "https://subscene.com/subtitles/the-boys-third-season/english",
       },
     ],
-    trainer:
-      "https://www.youtube.com/embed/tcrNsIaQkb4?si=h-RxrjCv7CXQIzVG",
+    trainer: "https://www.youtube.com/embed/tcrNsIaQkb4?si=h-RxrjCv7CXQIzVG",
     detail:
       "یک گروه از پارتیزان های جوان تصمیم به نابودی ابرقهرمانان فاسدی می گیرند که از قدرت خود سوءاستفاده می کنند.",
-      comments: [
-        {
-          id: 1,
-          author: "Darling016",
-          contetnt: "فصل چهار ضعیف ترین پریمیر تمام فصلارو فعلا تا اینجا داشته ،سه قسمت اول که فعلا اومده ،واقعا از لحاظ نویسندگی،کارگردانی،دیالوگ ،اکشن و حتی منطق خود سریال واقعا خیلی ضعیف تر شده نسبت به فصلای قبل ،امیدوارم ادامه ش بهتر باشه .",
-          timeComment: "۲۹ اسفند ۱۴۰۲ ۱۳:۰۸",
-          replies: [
-            {
-              id: 2,
-              author: "user_184155",
-              relpy: "من اصلا با این نظر موافق نیستم. توی همین سه قسمت کلی اتفاق افتاده و داریم تغییرات اساسی هوملندر رو میبینیم. فقط داستان فرنچی یه کم افت کرده. شاید قراره حذف بشه.",
-              timeReply: "۲۹ اسفند ۱۴۰۲ ۱۳:۰۸",
-            },
-          ],
-        },
-        {
-          id: 3,
-          author: "user_15245",
-          contetnt:
-            "چرا اینجوری شد فصل چهار اون چیزی که تو ذهن من بود از سریال با این سه قسمت اصلا همخونی نداشت مثلا یعنی چی همه در کسری از ثانیه متحول میشن و تصمیمشون رو عوض می کنند؟ اینجوری بخواد ادامه پیدا کنه امیدی بهش نخواهد بود",
-          timeComment: "۲۹ اسفند 1403 ۱۳:۰۸",
-          replies: [],
-        },
-      ],
+    comments: [
+      {
+        id: 1,
+        author: "Darling016",
+        contetnt:
+          "فصل چهار ضعیف ترین پریمیر تمام فصلارو فعلا تا اینجا داشته ،سه قسمت اول که فعلا اومده ،واقعا از لحاظ نویسندگی،کارگردانی،دیالوگ ،اکشن و حتی منطق خود سریال واقعا خیلی ضعیف تر شده نسبت به فصلای قبل ،امیدوارم ادامه ش بهتر باشه .",
+        timeComment: "۲۹ اسفند ۱۴۰۲ ۱۳:۰۸",
+        replies: [
+          {
+            id: 2,
+            author: "user_184155",
+            relpy:
+              "من اصلا با این نظر موافق نیستم. توی همین سه قسمت کلی اتفاق افتاده و داریم تغییرات اساسی هوملندر رو میبینیم. فقط داستان فرنچی یه کم افت کرده. شاید قراره حذف بشه.",
+            timeReply: "۲۹ اسفند ۱۴۰۲ ۱۳:۰۸",
+          },
+        ],
+      },
+      {
+        id: 3,
+        author: "user_15245",
+        contetnt:
+          "چرا اینجوری شد فصل چهار اون چیزی که تو ذهن من بود از سریال با این سه قسمت اصلا همخونی نداشت مثلا یعنی چی همه در کسری از ثانیه متحول میشن و تصمیمشون رو عوض می کنند؟ اینجوری بخواد ادامه پیدا کنه امیدی بهش نخواهد بود",
+        timeComment: "۲۹ اسفند 1403 ۱۳:۰۸",
+        replies: [],
+      },
+    ],
   },
 ];
 
